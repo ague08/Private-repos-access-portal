@@ -22,7 +22,9 @@ This research highlights the necessity of **evaluating de-anonymization risk bef
 
 ---
 
-## Publication
+## Publications:
+
+## **ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)**
 
 **Aguelal, H., Palmieri, P.**  
 *ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy*  
@@ -53,30 +55,26 @@ Access is **restricted** and **reviewed upon request** due to ethical, legal, an
 **Repository:**  
 https://github.com/ague08/Paper-ECG_De-anonymization_Real-world_Risks_and_Privacy-by-design_Mitigation_Strategy-
 
-**Contents (private):**
+**Contents:**
 - ECG De-anonymization linkage attack implementation based on CNN and handcrafted features
 - Evaluation scripts and benchmarking metrics  
-
-**Related publication:**  
-*ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)
-
----
 
 ### 2) Modular De-anonymization Linkage Attack 
 
 **Repository:**  
 https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Privacy-Mitigation-Framework
 
-**Contents (private):**
+**Contents:**
 - Modular attack design for the above attack  
 - Extended combination approach using similarity weighted matching (SIMW) to fuse linkage components outputs
 
+
+---
 ## Request Access
 
 To request access, please complete the following form:
 
- **Access Request Form:**  
-[https://forms.gle/XXXXXXXXXXXX](https://docs.google.com/forms/d/e/1FAIpQLSeYwvCthCh_RlVvceuJGKki591UENplM60JzvGa4uZggsl87A/viewform?usp=dialog)
+[Access Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeYwvCthCh_RlVvceuJGKki591UENplM60JzvGa4uZggsl87A/viewform?usp=dialog)
 
 We aim to review requests ASAP.  
 You will be notified by email once the access is granted or if additional information is required.
