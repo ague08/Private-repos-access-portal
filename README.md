@@ -18,7 +18,7 @@ The actual implementation repositories are **private** due to ethical, legal, an
 Electrocardiogram (ECG) data are widely used in healthcare research and AI development, yet they remain highly susceptible to de-anonymization due to their biometric nature. This work presents a lightweight but highly effective **ECG linkage (re-identification) attack**, evaluated under realistic adversarial conditions across multiple real-world datasets. The study demonstrates that existing anonymization practices are insufficient, achieving up to **97–100% matching accuracy** on certain datasets.  
 Based on these findings, the paper introduces a **risk-based, privacy-by-design framework** aligned with GDPR principles, providing guidance on mitigation strategies, benchmarking, and the responsible release of health data.
 
-This research highlights the necessity of **evaluating de-anonymization risk before public data release** and promotes transparency and reproducibility in anonymity research. :contentReference[oaicite:0]{index=0}
+This research highlights the necessity of **evaluating de-anonymization risk before public data release** and promotes transparency and reproducibility in anonymity research.
 
 ---
 
