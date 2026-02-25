@@ -1,11 +1,11 @@
-# Access Portal - ECG De-anonymization Research Artifacts
+# Access Portal - ECG De-anonymization Research Implementations
 
-This repository serves as a **public access portal** for research artifacts (code, experimental pipelines, and frameworks) related to **ECG de-anonymization risk assessments, attacks and privacy-by-design mitigation strategies**.
+This repository serves as a **public access portal** for research implementation (code, experimental pipelines, and frameworks) related to **ECG de-anonymization risk assessments, attacks and privacy-by-design mitigation strategies**.
 
 The actual implementation repositories are **private** due to ethical, legal, and misuse-prevention considerations. This repository provides:
 - an overview of the research work,
 - links to publications,
-- a description of available artifacts,
+- a description of available implementation,
 - and a formal process to request access to attacks repositories.
 
 ---
@@ -40,4 +40,44 @@ bibtex
   doi= {10.1109/CBMS65348.2025.00095},
   organization={IEEE}
 } 
+
+## Available Research Implementation (Private)
+
+The following **private GitHub repositories** contain implementation code, experimental pipelines, and supporting material related to the above paper.  
+Access is **restricted** and **reviewed upon request** due to ethical, legal, and misuse-prevention considerations.
+
+---
+
+### 1) ECG De-anonymization Linkage Attack 
+
+**Repository:**  
+https://github.com/ague08/Paper-ECG_De-anonymization_Real-world_Risks_and_Privacy-by-design_Mitigation_Strategy-
+
+**Contents (private):**
+- ECG De-anonymization linkage attack implementation based on CNN and handcrafted features
+- Evaluation scripts and benchmarking metrics  
+
+**Related publication:**  
+*ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)
+
+---
+
+### 2) Modular De-anonymization Linkage Attack 
+
+**Repository:**  
+https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Privacy-Mitigation-Framework
+
+**Contents (private):**
+- Modular attack design for the above attack  
+- Extended combination approach using similarity weighted matching (SIMW) to fuse linkage components outputs
+
+## Request Access
+
+To request access, please complete the following form:
+
+ **Access Request Form:**  
+[https://forms.gle/XXXXXXXXXXXX](https://docs.google.com/forms/d/e/1FAIpQLSeYwvCthCh_RlVvceuJGKki591UENplM60JzvGa4uZggsl87A/viewform?usp=dialog)
+
+We aim to review requests ASAP.  
+You will be notified by email once the access is granted or if additional information is required.
 
