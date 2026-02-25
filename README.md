@@ -1,4 +1,4 @@
-# Access Portal — ECG De-anonymization Research Artifacts
+# Access Portal - ECG De-anonymization Research Artifacts
 
 This repository serves as a **public access portal** for research artifacts (code, experimental pipelines, and frameworks) related to **ECG de-anonymization risk assessments, attacks and privacy-by-design mitigation strategies**.
 
