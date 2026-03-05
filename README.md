@@ -32,7 +32,7 @@ IEEE International Symposium on Computer-Based Medical Systems (CBMS), 2025
 DOI: 10.1109/CBMS65348.2025.00095
 
 ### BibTeX
-bibtex
+
 @inproceedings{aguelal2025ecg,
   title={ECG De-Anonymization: Real-World Risks and a Privacy-by-Design Mitigation Strategy},
   author={Aguelal, Hamza and Palmieri, Paolo},
@@ -45,7 +45,7 @@ bibtex
 
 ## Available Research Implementation (Private)
 
-The following **private GitHub repositories** contain implementation code, experimental pipelines, and supporting material related to the above paper.  
+The following **private GitHub repositories** contains implementation code, experimental pipelines, and supporting material related to the above paper.  
 Access is **restricted** and **reviewed upon request** due to ethical, legal, and misuse-prevention considerations.
 
 ---
@@ -78,7 +78,7 @@ Available after publication.
 
 ## Available Research Implementation
 
-The following **private GitHub repository** contain the paper's implementation code, datasets, experimental pipeline, and supporting material.  
+The following **private GitHub repository** contains the paper's implementation code, datasets, experimental pipeline, and supporting material.  
 Access is **restricted** and **reviewed upon request** due to ethical, legal, and misuse-prevention considerations.
 
 --
