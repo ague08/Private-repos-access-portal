@@ -73,6 +73,15 @@ https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Priva
 ## **ECG Re-identification: A Transfer-based Matching Attack* (CBMS 2026)**
 
 **Aguelal, H., Palmieri, P.**  
+### BibTeX
+Available after publication.
+
+## Available Research Implementation
+
+The following **private GitHub repository** contain the paper's implementation code, datasets, experimental pipeline, and supporting material.  
+Access is **restricted** and **reviewed upon request** due to ethical, legal, and misuse-prevention considerations.
+
+--
 
 **Repository:**  
 https://github.com/ague08/
