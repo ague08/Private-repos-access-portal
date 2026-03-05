@@ -68,14 +68,25 @@ https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Priva
 - Modular attack design for the above attack  
 - Extended combination approach using similarity weighted matching (SIMW) to fuse linkage components outputs
 
+---
+
+## **ECG Re-identification: A Transfer-based Matching Attack* (CBMS 2026)**
+
+**Aguelal, H., Palmieri, P.**  
+
+**Repository:**  
+https://github.com/ague08/
+
 
 ---
 ## Request Access
 
-To request access, please complete the following form:
+To request access, please complete the following form specifying the repository you wish to access:
 
 [Access Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeYwvCthCh_RlVvceuJGKki591UENplM60JzvGa4uZggsl87A/viewform?usp=dialog)
 
 We aim to review requests ASAP.  
 You will be notified by email once the access is granted or if additional information is required.
+
+
 
