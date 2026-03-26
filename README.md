@@ -70,7 +70,7 @@ https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Priva
 
 ---
 
-## **ECG Re-identification: A Transfer-based Matching Attack* (CBMS 2026)**
+## **TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (CBMS 2026)**
 
 **Aguelal, H., Palmieri, P.**  
 ### BibTeX
