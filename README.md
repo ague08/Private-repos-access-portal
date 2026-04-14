@@ -24,7 +24,7 @@ This research highlights the necessity of **evaluating de-anonymization risk bef
 
 ## Publications:
 
-## **ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)**
+## 1) **ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)**
 
 **Aguelal, H., Palmieri, P.**  
 *ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy*  
@@ -50,7 +50,7 @@ Access is **restricted** and **reviewed upon request** due to ethical, legal, an
 
 ---
 
-### 1) ECG De-anonymization Linkage Attack 
+### ECG De-anonymization Linkage Attack 
 
 **Repository:**  
 https://github.com/ague08/Paper-ECG_De-anonymization_Real-world_Risks_and_Privacy-by-design_Mitigation_Strategy-
@@ -68,8 +68,28 @@ https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Priva
 - Modular attack design for the above attack  
 - Extended combination approach using similarity weighted matching (SIMW) to fuse linkage components outputs
 
+
 ---
-## ** De-Anonymization of Health Data: A Survey of Practical Attacks and a Deployable Risk Assessment Framework and Service **
+
+## 2) **TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (CBMS 2026)**
+
+**Aguelal, H., Palmieri, P.**  
+### BibTeX
+Available after publication.
+
+## Available Research Implementation
+
+The following **private GitHub repository** contains the paper's implementation code, datasets, experimental pipeline, and supporting material.  
+Access is **restricted** and **reviewed upon request** due to ethical, legal, and misuse-prevention considerations.
+
+--
+
+**Repository:**  
+https://github.com/ague08/TRACE-ECG-Transfer-Based-Re-Identification-Attack-on-Cross-Dataset-ECG-Signals.git
+
+-----------------
+
+## 3) ** De-Anonymization of Health Data: A Survey of Practical Attacks and a Deployable Risk Assessment Framework and Service **
 
 **Aguelal, H., Palmieri, P.**  
 ### BibTeX
@@ -88,26 +108,6 @@ Access to the service is provided through the **SECURED-EU Innohub: https://secu
 
 **Repository:** 
 https://github.com/ague08/data-de-anonymization-tool
-
-
-
----
-
-## **TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (CBMS 2026)**
-
-**Aguelal, H., Palmieri, P.**  
-### BibTeX
-Available after publication.
-
-## Available Research Implementation
-
-The following **private GitHub repository** contains the paper's implementation code, datasets, experimental pipeline, and supporting material.  
-Access is **restricted** and **reviewed upon request** due to ethical, legal, and misuse-prevention considerations.
-
---
-
-**Repository:**  
-https://github.com/ague08/TRACE-ECG-Transfer-Based-Re-Identification-Attack-on-Cross-Dataset-ECG-Signals.git
 
 
 ---
