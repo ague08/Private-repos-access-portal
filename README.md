@@ -90,10 +90,8 @@ https://github.com/ague08/TRACE-ECG-Transfer-Based-Re-Identification-Attack-on-C
 
 -----------------
 
-- ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy
-## Research Overview
-
 ## 3- **De-Anonymization of Health Data: A Survey of Practical Attacks and a Deployable Risk Assessment Framework and Service**
+## Research Overview
 
 **Aguelal, H., Palmieri, P.**  
 ### BibTeX
