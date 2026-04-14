@@ -69,6 +69,29 @@ https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Priva
 - Extended combination approach using similarity weighted matching (SIMW) to fuse linkage components outputs
 
 ---
+## ** De-Anonymization of Health Data: A Survey of Practical Attacks and a Deployable Risk Assessment Framework and Service **
+
+**Aguelal, H., Palmieri, P.**  
+### BibTeX
+
+
+
+
+## Available Research Implementation
+
+The following **private GitHub repository** contains the De-Anonymization Risk Assessment Service code and supporting material.  
+Access to the repo is **restricted** and **reviewed upon request** due to ethical and legal considerations.
+Access to the service is provided through the **SECURED-EU Innohub: https://secured-project.eu**
+
+
+--
+
+**Repository:** 
+https://github.com/ague08/data-de-anonymization-tool
+
+
+
+---
 
 ## **TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (CBMS 2026)**
 
