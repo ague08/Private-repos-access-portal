@@ -10,9 +10,10 @@ The actual implementation repositories are **private** due to ethical, legal, an
 
 ---
 
-## Research Overview
+
 
 ### 1- ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy
+## Research Overview
 
 **Abstract**  
 Electrocardiogram (ECG) data are widely used in healthcare research and AI development, yet they remain highly susceptible to de-anonymization due to their biometric nature. This work presents a lightweight but highly effective **ECG linkage (re-identification) attack**, evaluated under realistic adversarial conditions across multiple real-world datasets. The study demonstrates that existing anonymization practices are insufficient, achieving up to **97–100% matching accuracy** on certain datasets.  
@@ -89,7 +90,10 @@ https://github.com/ague08/TRACE-ECG-Transfer-Based-Re-Identification-Attack-on-C
 
 -----------------
 
-## 3) ** De-Anonymization of Health Data: A Survey of Practical Attacks and a Deployable Risk Assessment Framework and Service **
+- ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy
+## Research Overview
+
+## 3- **De-Anonymization of Health Data: A Survey of Practical Attacks and a Deployable Risk Assessment Framework and Service**
 
 **Aguelal, H., Palmieri, P.**  
 ### BibTeX
