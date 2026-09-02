@@ -1,6 +1,13 @@
 # Access Portal - ECG De-anonymization Research Implementations
 
-This repository serves as a **public access portal** for research implementation (code, experimental pipelines, and frameworks) related to **ECG de-anonymization risk assessments, attacks and privacy-by-design mitigation strategies**.
+This repository serves as a **public access portal** for research implementation (code, experimental pipelines, and frameworks) related to **ECG de-anonymization risk assessments, attacks and privacy-by-design mitigation strategies**. Our works include:
+
+## 1) **ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)**
+## 2) **TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (ISC 2026)**
+## 3) **Exposing ECG Re-identification Threats: A Modular De-anonymization Attack and Risk-Based Privacy Mitigation Framework (HISS)**
+## 4) **De-Anonymization of Health Data: Deployable Risk Assessment Framework and Service - Under Secured-EU Innohub**
+
+
 
 The actual implementation repositories are **private** due to ethical, legal, and misuse-prevention considerations. This repository provides:
 - an overview of the research work,
@@ -10,23 +17,9 @@ The actual implementation repositories are **private** due to ethical, legal, an
 
 ---
 
-
-
-### 1- ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy
-## Research Overview
-
-**Abstract**  
-Electrocardiogram (ECG) data are widely used in healthcare research and AI development, yet they remain highly susceptible to de-anonymization due to their biometric nature. This work presents a lightweight but highly effective **ECG linkage (re-identification) attack**, evaluated under realistic adversarial conditions across multiple real-world datasets. The study demonstrates that existing anonymization practices are insufficient, achieving up to **97–100% matching accuracy** on certain datasets.  
-Based on these findings, the paper introduces a **risk-based, privacy-by-design framework** aligned with GDPR principles, providing guidance on mitigation strategies, benchmarking, and the responsible release of health data.
-
-This research highlights the necessity of **evaluating de-anonymization risk before public data release** and promotes transparency and reproducibility in anonymity research.
-
----
-
-## Publications:
+## Publications and Repos:
 
 ## 1) **ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)**
-
 **Aguelal, H., Palmieri, P.**  
 *ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy*  
 IEEE International Symposium on Computer-Based Medical Systems (CBMS), 2025  
@@ -49,10 +42,6 @@ DOI: 10.1109/CBMS65348.2025.00095
 The following **private GitHub repositories** contains implementation code, experimental pipelines, and supporting material related to the above paper.  
 Access is **restricted** and **reviewed upon request** due to ethical, legal, and misuse-prevention considerations.
 
----
-
-### ECG De-anonymization Linkage Attack 
-
 **Repository:**  
 https://github.com/ague08/Paper-ECG_De-anonymization_Real-world_Risks_and_Privacy-by-design_Mitigation_Strategy-
 
@@ -60,20 +49,9 @@ https://github.com/ague08/Paper-ECG_De-anonymization_Real-world_Risks_and_Privac
 - ECG De-anonymization linkage attack implementation based on CNN and handcrafted features
 - Evaluation scripts and benchmarking metrics  
 
-### 2) Modular De-anonymization Linkage Attack 
+----
 
-**Repository:**  
-https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Privacy-Mitigation-Framework
-
-**Contents:**
-- Modular attack design for the above attack  
-- Extended combination approach using similarity weighted matching (SIMW) to fuse linkage components outputs
-
-
----
-
-## 2) **TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (CBMS 2026)**
-
+## 2) **TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (ISC 2026)**
 **Aguelal, H., Palmieri, P.**  
 ### BibTeX
 Available after publication.
@@ -88,9 +66,27 @@ Access is **restricted** and **reviewed upon request** due to ethical, legal, an
 **Repository:**  
 https://github.com/ague08/TRACE-ECG-Transfer-Based-Re-Identification-Attack-on-Cross-Dataset-ECG-Signals.git
 
+
+----
+### 3) Exposing ECG Re-identification Threats: A Modular De-anonymization Attack and Risk-Based Privacy Mitigation Framework
+**Aguelal, H., Palmieri, P.**  
+### BibTeX
+Available after publication.
+
+
+**Repository:**  
+https://github.com/ague08/A-Modular-De-anonymization-Attack-and-Risk-Based-Privacy-Mitigation-Framework
+
+**Contents:**
+- Modular attack design for the above attack  
+- Extended combination approach using similarity weighted matching (SIMW) to fuse linkage components outputs
+
+
+---
+
 -----------------
 
-## 3- **De-Anonymization of Health Data: A Survey of Practical Attacks and a Deployable Risk Assessment Framework and Service**
+## 4) **De-Anonymization of Health Data: A Survey of Practical Attacks and a Deployable Risk Assessment Framework and Service**
 ## Research Overview
 
 **Aguelal, H., Palmieri, P.**  
@@ -111,7 +107,16 @@ Access to the service is provided through the **SECURED-EU Innohub: https://secu
 **Repository:** 
 https://github.com/ague08/data-de-anonymization-tool
 
+### 1- ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy
+## Research Overview
 
+**Abstract**  
+Electrocardiogram (ECG) data are widely used in healthcare research and AI development, yet they remain highly susceptible to de-anonymization due to their biometric nature. This work presents a lightweight but highly effective **ECG linkage (re-identification) attack**, evaluated under realistic adversarial conditions across multiple real-world datasets. The study demonstrates that existing anonymization practices are insufficient, achieving up to **97–100% matching accuracy** on certain datasets.  
+Based on these findings, the paper introduces a **risk-based, privacy-by-design framework** aligned with GDPR principles, providing guidance on mitigation strategies, benchmarking, and the responsible release of health data.
+
+This research highlights the necessity of **evaluating de-anonymization risk before public data release** and promotes transparency and reproducibility in anonymity research.
+
+---
 ---
 ## Request Access
 
