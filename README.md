@@ -4,7 +4,7 @@ This repository serves as a **public access portal** for research implementation
 
 ### 1) ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)
 ### 2) TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (ISC 2026)
-### 3) Exposing ECG Re-identification Threats: A Modular De-anonymization Attack and Risk-Based Privacy Mitigation Framework (HISS)
+### 3) Exposing ECG Re-identification Threats: A Modular De-anonymization Attack and Risk-Based Privacy Mitigation Framework
 ### 4) De-Anonymization of Health Data: Deployable Risk Assessment Framework and Service - Under Secured-EU Innohub
 
 
