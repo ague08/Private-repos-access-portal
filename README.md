@@ -1,6 +1,6 @@
 # Access Portal - ECG De-anonymization Research Implementations
 
-This repository serves as a **public access portal** for research implementation (code, experimental pipelines, and frameworks) related to **ECG de-anonymization risk assessments, attacks and privacy-by-design mitigation strategies**. Our works include:
+This repository serves as a **public access portal** for research implementation (code, experimental pipelines, and frameworks) related to **ECG de-anonymization risk assessments, attacks and privacy-by-design mitigation strategies**. To request access, use the link at the end of the page. Our works include:
 
 ### 1) ECG De-anonymization: Real-world Risks and a Privacy-by-design Mitigation Strategy* (CBMS 2025)
 ### 2) TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals* (ISC 2026)
