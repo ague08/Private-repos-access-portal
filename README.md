@@ -37,7 +37,7 @@ DOI: 10.1109/CBMS65348.2025.00095
   organization={IEEE}
 } 
 
-## Available Research Implementation (Private)
+## Available Research Implementation 
 
 The following **private GitHub repositories** contains implementation code, experimental pipelines, and supporting material related to the above paper.  
 Access is **restricted** and **reviewed upon request** due to ethical, legal, and misuse-prevention considerations.
